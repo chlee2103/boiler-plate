@@ -3,5 +3,5 @@
 ##### 
 
 #### 💻 Project Skills
-##### Node js, React
+##### React JS, Node JS 
 ##### mongoDB
